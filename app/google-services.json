@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478366541362",
+    "project_id": "mappracticapp-cd1cf",
+    "storage_bucket": "mappracticapp-cd1cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478366541362:android:ba3d77bd068cd96873fe2b",
+        "android_client_info": {
+          "package_name": "com.example.mapapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDCkSZiB8egXqXrBG7p72is6wnsrKWHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
