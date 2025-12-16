@@ -36,6 +36,8 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
             .findFragmentById(R.id.map) as SupportMapFragment
         mapFragment.getMapAsync(this)
 
+
+
         binding.fab.setOnClickListener {
             if (::map.isInitialized) {
                 val center = map.cameraPosition.target
